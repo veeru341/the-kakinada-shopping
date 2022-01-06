@@ -1,0 +1,22 @@
+.header {
+  background-color: green;
+  height: 60px;
+  margin: 0;
+  padding: 0;
+}
+ul {
+  display: flex;
+  justify-content: space-around;
+}
+ul > li {
+  list-style-type: none;
+  color: white;
+  font-weight: 600;
+  font-size: 18px;
+  display: flex;
+  line-height: 50px;
+}
+.listitmes {
+  text-decoration: none;
+  color: white;
+}
